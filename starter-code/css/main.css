@@ -157,10 +157,10 @@ header h3 {
 }
 
 .div-kanye-photo {
-     width: 40%;
-     float: left;
-     padding-top: 80px;
-     margin-right: 5%;
+    width: 40%;
+    float: left;
+    padding-top: 80px;
+    margin-right: 5%;
 }
 
 .div-kanye-photo img {
@@ -174,9 +174,9 @@ header h3 {
 }
 
 .div-icon:hover {
-    zwidth:100px;
+    zwidth: 100px;
     transition-duration: 0.5s;
-    ztransition-timing-function:linear;
+    ztransition-timing-function: linear;
     transition-delay: 1s;
     transform: rotate(1080deg);
 }
