@@ -174,9 +174,7 @@ header h3 {
 }
 
 .div-icon:hover {
-    zwidth: 100px;
     transition-duration: 0.5s;
-    ztransition-timing-function: linear;
     transition-delay: 1s;
     transform: rotate(1080deg);
 }
